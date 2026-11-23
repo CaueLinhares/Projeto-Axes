@@ -5,7 +5,11 @@
 - **Parte 1 — Axes v0.1 (`axes.py`)**: cadastro, edição, remoção, relatório de atingimento e persistência em CSV.
 - **Parte 2 — OKR Core inicial (`okr.py`)**: cadastro de áreas, colaboradores fictícios, ciclos, objetivos e resultados-chave (KRs) em SQLite.
 
-> **Situação:** o código foi testado em ambiente isolado, mas você ainda precisa validar no seu VS Code e publicar no seu GitHub. A Parte 2 é um **protótipo funcional de cadastros**; histórico mensal, alertas, dashboards, permissões e agente de IA **não existem ainda**.
+
+**Situação:** a Parte 1 — Axes v0.1 foi validada localmente, com 6 testes automatizados aprovados, e publicada no GitHub.
+
+A Parte 2 — OKR Core está em desenvolvimento, com os primeiros cadastros em SQLite. Histórico mensal, alertas, dashboards, permissões e agente de IA serão implementados nas próximas versões.
+
 
 ## Requisitos
 
